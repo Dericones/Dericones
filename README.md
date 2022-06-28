@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Déryck Souza 🧑🏽‍💻
 
-<!--
-**Dericones/Dericones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying Web Development at [🚀 Rocketseat](https://rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main language: `JavaScript`
+- 🎉 Front-End: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
+- 📡 Back-End: `Node.js`
+- 🎨 Layout Design: `Figma`
+- 📦 Version Code Control: `Git & Github`
+- 🛠️ Tools: `VSCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 📬 E-mail: [dericon3s@gmail.com](mailto:dericon3s@gmail.com)
+- 👤 Linkedin: [linkedin.com/in/dericones](https://www.linkedin.com/in/dericones)
