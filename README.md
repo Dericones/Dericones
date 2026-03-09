@@ -12,5 +12,5 @@ I'm a Web Developer. And, I'm studying Web Development at [🚀 Rocketseat](http
 - 🛠️ Tools: `VSCode`
 
 #### Contacts
-- 📬 E-mail: [dericon3s@gmail.com](mailto:dericon3s@gmail.com)
+- 📬 E-mail: [deryck_souza@hotmail.com](mailto:deryck_souza@hotmail.com)
 - 👤 Linkedin: [linkedin.com/in/dericones](https://www.linkedin.com/in/dericones)
